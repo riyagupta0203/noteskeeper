@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Capriola&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
+
+.navbar{
+    font-family: 'Montserrat' , sans-serif;   
+}
+
+.displayIcon1{
+    margin-right: 15px;
+}
+.navv{
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    text-decoration: none;
+    white-space: nowrap;
+    color: #c1b8d1;
+    font-weight:900;
+}
